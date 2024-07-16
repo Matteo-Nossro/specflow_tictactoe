@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowTicTacToe", "SpecFlowTicTacToe\SpecFlowTicTacToe.csproj", "{A954FF1D-EBF6-41DD-9AF6-AEA77825DD1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowTicTacToe.Specs", "SpecFlowTicTacToe.Specs\SpecFlowTicTacToe.Specs.csproj", "{4C198C01-02E6-4210-87D4-F78C4589DF44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A954FF1D-EBF6-41DD-9AF6-AEA77825DD1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A954FF1D-EBF6-41DD-9AF6-AEA77825DD1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A954FF1D-EBF6-41DD-9AF6-AEA77825DD1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A954FF1D-EBF6-41DD-9AF6-AEA77825DD1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C198C01-02E6-4210-87D4-F78C4589DF44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C198C01-02E6-4210-87D4-F78C4589DF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C198C01-02E6-4210-87D4-F78C4589DF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C198C01-02E6-4210-87D4-F78C4589DF44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

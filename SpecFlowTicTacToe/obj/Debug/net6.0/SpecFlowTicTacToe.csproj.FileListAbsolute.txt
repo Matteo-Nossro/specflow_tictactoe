@@ -1,0 +1,12 @@
+C:\Users\Toun-portable\RiderProjects\SpecFlowTicTacToe\SpecFlowTicTacToe\bin\Debug\net6.0\SpecFlowTicTacToe.deps.json
+C:\Users\Toun-portable\RiderProjects\SpecFlowTicTacToe\SpecFlowTicTacToe\bin\Debug\net6.0\SpecFlowTicTacToe.dll
+C:\Users\Toun-portable\RiderProjects\SpecFlowTicTacToe\SpecFlowTicTacToe\bin\Debug\net6.0\SpecFlowTicTacToe.pdb
+C:\Users\Toun-portable\RiderProjects\SpecFlowTicTacToe\SpecFlowTicTacToe\obj\Debug\net6.0\SpecFlowTicTacToe.csproj.AssemblyReference.cache
+C:\Users\Toun-portable\RiderProjects\SpecFlowTicTacToe\SpecFlowTicTacToe\obj\Debug\net6.0\SpecFlowTicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toun-portable\RiderProjects\SpecFlowTicTacToe\SpecFlowTicTacToe\obj\Debug\net6.0\SpecFlowTicTacToe.AssemblyInfoInputs.cache
+C:\Users\Toun-portable\RiderProjects\SpecFlowTicTacToe\SpecFlowTicTacToe\obj\Debug\net6.0\SpecFlowTicTacToe.AssemblyInfo.cs
+C:\Users\Toun-portable\RiderProjects\SpecFlowTicTacToe\SpecFlowTicTacToe\obj\Debug\net6.0\SpecFlowTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Toun-portable\RiderProjects\SpecFlowTicTacToe\SpecFlowTicTacToe\obj\Debug\net6.0\SpecFlowTicTacToe.dll
+C:\Users\Toun-portable\RiderProjects\SpecFlowTicTacToe\SpecFlowTicTacToe\obj\Debug\net6.0\refint\SpecFlowTicTacToe.dll
+C:\Users\Toun-portable\RiderProjects\SpecFlowTicTacToe\SpecFlowTicTacToe\obj\Debug\net6.0\SpecFlowTicTacToe.pdb
+C:\Users\Toun-portable\RiderProjects\SpecFlowTicTacToe\SpecFlowTicTacToe\obj\Debug\net6.0\ref\SpecFlowTicTacToe.dll
